@@ -1,0 +1,6 @@
+senin 1 februari 2016.
+Training hari pertama tentang github
+Semua diminta membuat cerita dimasing-masing rpg
+Implementasi tentang working directory add staging commit
+dan lain lain
+sekian
